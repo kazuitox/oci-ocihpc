@@ -2,7 +2,7 @@
 
 package main
 
-import "github.com/oracle-quickstart/oci-ocihpc/cmd"
+import "github.com//oci-ocihpc/cmd"
 
 func main() {
 	cmd.Execute()
