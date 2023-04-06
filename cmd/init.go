@@ -32,8 +32,8 @@ func init() {
 
 func stackInit(stack string) {
 
-	configURL := fmt.Sprintf("https://raw.githubusercontent.com/oracle-quickstart/oci-ocihpc/master/stacks/%s/config.json", stack)
-	zipURL := fmt.Sprintf("https://github.com/oracle-quickstart/oci-ocihpc/raw/master/stacks/%s/%s.zip", stack, stack)
+	configURL := fmt.Sprintf("https://raw.githubusercontent.com/kazuitox/oci-ocihpc/master/stacks/%s/config.json", stack)
+	zipURL := fmt.Sprintf("https://github.com/kazuitox/oci-ocihpc/raw/master/stacks/%s/%s.zip", stack, stack)
 
 	configFilePath := filepath.Join(getWd(), "config.json")
 
