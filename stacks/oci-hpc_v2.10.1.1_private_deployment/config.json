@@ -4,12 +4,12 @@
     "bastion_shape": "",
     "node_count": "",
     "ssh_key": "",
-	  "bastion_boot_volume_size": "50",
-	  "targetCompartment": "",
-	  "private_deployment": "true",
-	  "use_existing_vcn": "true",
-	  "monitoring": "false",
-	  "vcn_id": "",
+    "bastion_boot_volume_size": "50",
+    "targetCompartment": "",
+    "private_deployment": "true",
+    "use_existing_vcn": "true",
+    "monitoring": "false",
+    "vcn_id": "",
     "public_subnet_id": "",
-	  "private_subnet_id": ""
+    "private_subnet_id": ""
 }
