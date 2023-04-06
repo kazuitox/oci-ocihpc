@@ -52,5 +52,11 @@
         "stackUser": "opc",
         "stackVersion": "0.13.x",
         "defaultNodeCount": "2"
+    },
+    "oci-hpc_v2.10.1.1_private_deployment": {
+        "outputQuery": "private_ips",
+        "stackUser": "opc",
+        "stackVersion": "1.0.x",
+        "defaultNodeCount": "2"
     }
 }
