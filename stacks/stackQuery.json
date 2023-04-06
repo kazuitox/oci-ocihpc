@@ -2,7 +2,7 @@
     "ClusterNetwork": {
         "outputQuery": "bastion",
         "stackUser": "opc",
-        "stackVersion": "0.12.x",
+        "stackVersion": "1.2.x",
         "defaultNodeCount": "2"
     },
     "CFDClusterNetwork": {
