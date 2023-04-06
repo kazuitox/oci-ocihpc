@@ -142,7 +142,7 @@ func getConfirmation(prompt string) bool {
 }
 
 func getStackQuery(stack string, value string) string {
-	url := "https://raw.githubusercontent.com/oracle-quickstart/oci-ocihpc/master/stacks/stackQuery.json"
+	url := "https://raw.githubusercontent.com/kazuitox/oci-ocihpc/master/stacks/stackQuery.json"
 	resp, err := http.Get(url)
 	if err != nil {
 		panic(err)
